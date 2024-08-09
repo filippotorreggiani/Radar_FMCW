@@ -1,4 +1,5 @@
-objective: create an FMCW radar with 10GHz carrier frequency, maximum distance of 10 meters and radar-cross action detection of approximately 0.01 m^2.
+I would like to apply radar to road cars for emergency braking, following an algorithm based on vehicle speed and distance.
+objective: create an FMCW radar with 10GHz carrier frequency, maximum distance of 50 meters and radar-cross action detection of approximately 0.5 m^2.
 
 This project is made for learning, I will not respect the legal limitations of transmitted power and available bandwidth.
 
