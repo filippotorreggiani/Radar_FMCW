@@ -124,6 +124,21 @@ $begin 'AnsoftProject'
 					TextProp('Owner', 'SRD', '', 'HFSS')
 				$end 'Properties'
 				CompExtID=6
+				$begin 'Parameters'
+					ButtonProp('CosimDefinition', 'D', '', 'Edit', 'Edit', 40501, ButtonPropClientData())
+					MenuProp('CoSimulator', 'D', '', 'DefaultNetlist', 0)
+				$end 'Parameters'
+				$begin 'CosimDefinitions'
+					$begin 'CosimDefinition'
+						CosimulatorType=4
+						CosimDefName='DefaultNetlist'
+						IsDefinition=true
+						Connect=true
+						Data()
+						GRef()
+					$end 'CosimDefinition'
+					DefaultCosim='DefaultNetlist'
+				$end 'CosimDefinitions'
 			$end 'HFSSDesign1'
 		$end 'Compdefs'
 	$end 'Definitions'
@@ -186,7 +201,7 @@ $begin 'AnsoftProject'
 			WorkingCS=1
 			$begin 'GeometryCore'
 				BlockVersionID=3
-				DataVersion=1
+				DataVersion=2
 				NativeKernel='PARASOLID'
 				NativeKernelVersionID=24
 				Units='mm'
@@ -205,7 +220,7 @@ $begin 'AnsoftProject'
 							IDServerObjectTypeID=0
 							IDServerRangeMin=0
 							IDServerRangeMax=2146483647
-							NextUniqueID=5
+							NextUniqueID=17
 							MoveBackwards=false
 						$end 'AnsoftRangedIDServer'
 						$begin 'AnsoftRangedIDServer'
@@ -381,7 +396,7 @@ $begin 'AnsoftProject'
 			$end 'OptimetricsSetups'
 		$end 'Optimetrics'
 		$begin 'Solutions'
-			FieldType='ScatteredFields'
+			FieldType='NoIncidentWave'
 			UseIncidentVoltage=true
 			IncludePortPostProcessing=false
 			UsePerElementArrayPower=true
@@ -449,7 +464,7 @@ $begin 'AnsoftProject'
 					FirstCellPosX='0mm'
 					FirstCellPosY='0mm'
 					FirstCellPosZ='0mm'
-					Behavior='UseScanAngle'
+					Behavior='UseSlaveSettings'
 					ScanAnglePhi='45deg'
 					ScanAngleTheta='45deg'
 					UDirnPhaseShift='0deg'
@@ -505,8 +520,8 @@ $begin 'AnsoftProject'
 		$end 'RadField'
 		$begin 'SolutionManager'
 			$begin 'Version ID Map'
-				V=0
-				IQM=0
+				V=10
+				IQM=11
 			$end 'Version ID Map'
 			ValidationCacheHeader=''
 		$end 'SolutionManager'
@@ -521,12 +536,11 @@ $begin 'AnsoftProject'
 		Notes=$begin_cdata$ $end_cdata$
 		$begin 'AnimationSetups'
 		$end 'AnimationSetups'
-		CacheHeaderFile='HDR4B333049217241599202.tmp'
+		CacheHeaderFile='HDR72942978417241630073.tmp'
 	$end 'HFSSModel'
 	$begin 'DataInstances'
 		DesignEditor='TopLevel'
 		Refdes('0', 'U1')
-		Refdes('1', 'U2')
 		$begin 'CompInstances'
 			$begin 'Compinst'
 				ID='0'
@@ -536,6 +550,10 @@ $begin 'AnsoftProject'
 				$begin 'Properties'
 					TextProp('ID', 'SRID', '', '0')
 				$end 'Properties'
+				$begin 'Parameters'
+					MenuProp('CoSimulator', 'OHD', '', 'DefaultNetlist', 0)
+					ButtonProp('CosimDefinition', 'OHD', '', 'Edit', 'Edit', 40501, ButtonPropClientData())
+				$end 'Parameters'
 			$end 'Compinst'
 		$end 'CompInstances'
 		$begin 'Instance'
@@ -545,7 +563,7 @@ $begin 'AnsoftProject'
 				DesignInstanceID=1
 				$begin 'WindowPosition'
 					$begin 'EditorWindow'
-						Circuit(Editor3d(View('View Orientation Gadget'=1, WindowPos(3, -1, -1, -9, -38, 0, 0, 1193, 548), OrientationMatrix(0.261611193418503, -0.317425817251205, 0.366812348365784, 0, 0.485075145959854, 0.174391910433769, -0.195040658116341, 0, -0.00373473204672337, 0.415424823760986, 0.362157553434372, 0, 0.0971890240907669, 0.0326787084341049, -5.74151182174683, 1, 0, -0.758706152439117, 2.26616954803467, -1.09950184822083, 0.900498151779175, 0.968540668487549, 10.5144824981689), Drawings[0:], 'View Data'('Render Mode'=1, 'Show Ruler'=1, 'Coordinate Systems View Mode'=1, 'CS Triad View Mode'=0, 'Render Facets'=1, GridVisible=1, GridAutoAdjust=1, GridAutoExtents=1, GridType='Rect', GridStyle='Line', NumPixels=30, dXForGrid=0.1, dYForGrid=0.1, dZForGrid=0.1, dRForGrid=0.1, dThetaForGrid=10), ClipPlanes(ClipPlaneOptions(DisableWhenDrawingNewPlane=true, ForceOpqaueForUnclipped=false, ShowClipped=false, Transparency=0, HandleColor=16776960)))))
+						Circuit(Editor3d(View('View Orientation Gadget'=1, WindowPos(3, -1, -1, -9, -38, 0, 0, 1193, 350), OrientationMatrix(0.551136314868927, 1.19209289550781e-07, -1.19209289550781e-07, 0, 1.19209289550781e-07, 0.551135540008545, -4.76837215046544e-07, 0, -1.0710209608078e-07, -5.0663948059082e-07, 0.55113559961319, 0, 0.0482556819915771, -0.466592788696289, -5.47375249862671, 1, 0, -0.283319115638733, 13.4779987335205, -1.21306467056274, 7.88571739196777, 3.59809398651123, 7.88492870330811), Drawings[0:], 'View Data'('Render Mode'=1, 'Show Ruler'=1, 'Coordinate Systems View Mode'=1, 'CS Triad View Mode'=0, 'Render Facets'=1, GridVisible=1, GridAutoAdjust=1, GridAutoExtents=1, GridType='Rect', GridStyle='Line', NumPixels=30, dXForGrid=0.5, dYForGrid=0.5, dZForGrid=0.5, dRForGrid=0.5, dThetaForGrid=10), ClipPlanes(ClipPlaneOptions(DisableWhenDrawingNewPlane=true, ForceOpqaueForUnclipped=false, ShowClipped=false, Transparency=0, HandleColor=16776960)))))
 					$end 'EditorWindow'
 				$end 'WindowPosition'
 				$begin 'ReportSetup'
@@ -573,6 +591,14 @@ $begin 'AnsoftProject'
 			$end 'HfssDesignInstance'
 		$end 'Instance'
 		$begin 'SODInfo'
+			$begin 'HFSSDesign1'
+				$begin 'CosimDefinition'
+					CosimDefName='DefaultNetlist'
+					$begin 'SODInstanceMap'
+					$end 'SODInstanceMap'
+					SODComponentList()
+				$end 'CosimDefinition'
+			$end 'HFSSDesign1'
 		$end 'SODInfo'
 	$end 'DataInstances'
 	$begin 'WBSystemIDToDesignInstanceIDMap'

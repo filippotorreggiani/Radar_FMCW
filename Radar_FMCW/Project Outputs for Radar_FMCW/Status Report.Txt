@@ -1,28 +1,16 @@
-Output: ODB++ Files
-Type  : ODB
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [Radar_FMCW.PrjPcb]
-   Generated File[profile]
-   Generated File[stephdr]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[components]
-   Generated File[data]
-   Generated File[netlist]
-   Generated File[matrix]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
+   Generated File[Radar_FMCW.GTS]
+   Generated File[Radar_FMCW.GTL]
+   Generated File[Radar_FMCW.GBL]
+   Generated File[Radar_FMCW.GBS]
+   Generated File[Radar_FMCW.GM]
+   Generated File[Radar_FMCW.EXTREP]
    Generated File[Radar_FMCW.REP]
 
 
-Files Generated   : 19
+Files Generated   : 7
 Documents Printed : 0
 
-Finished Output Generation At 15:57:45 On 20/08/2024
+Finished Output Generation At 16:24:54 On 20/08/2024

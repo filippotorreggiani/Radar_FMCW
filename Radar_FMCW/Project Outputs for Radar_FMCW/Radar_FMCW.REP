@@ -1,46 +1,73 @@
 *************************************************************
-FileName = Radar_FMCW.PcbDoc
-ODB++ directory structure
+FileName = Radar_FMCW.GBR
+AutoAperture = True
 *************************************************************
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\profile
+Generating : Top Layer
+      File : Radar_FMCW.GTL
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\stephdr
+    Adding Layer      : Top Layer
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\layers\dielectric_1\features
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\layers\dielectric_1\attrlist
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\layers\bottom_layer\features
+*************************************************************
+Generating : Bottom Solder
+      File : Radar_FMCW.GBS
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\layers\bottom_layer\attrlist
+    Adding Layer      : Bottom Solder
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\layers\top_layer\features
+    Adding Layer      : Bottom Layer
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\layers\top_layer\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\layers\comp_+_top\features
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\layers\comp_+_top\components
+Used DCodes :
+    D18
+*************************************************************
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\steps\pcb\eda\data
+*************************************************************
+Generating : Bottom Layer
+      File : Radar_FMCW.GBL
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\matrix\matrix
+    Adding Layer      : Bottom Layer
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\symbols\shaped13c99c4\features
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\symbols\shape36bb128f\features
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\symbols\shape8ab5b1ee\features
+Used DCodes :
+    D17
+*************************************************************
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\symbols\shapea2ea2442\features
+*************************************************************
+Generating : Top Solder
+      File : Radar_FMCW.GTS
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\symbols\shaped13c99c4\features
+    Adding Layer      : Top Solder
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\symbols\shape36bb128f\features
+    Adding Layer      : Top Layer
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\symbols\shape8ab5b1ee\features
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\Users\FiloT\Desktop\UNIPR Racing TEAM\Altium\PROJECT\Radar_FMCW\Radar_FMCW\Project Outputs for Radar_FMCW\odb\symbols\shapea2ea2442\features
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Radar_FMCW.GM
+
+
+Used DCodes :
+    D19
+*************************************************************
 
