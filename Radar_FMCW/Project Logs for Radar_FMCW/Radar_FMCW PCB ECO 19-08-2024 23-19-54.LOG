@@ -1,0 +1,31 @@
+Add Component: Footprint Not Found SON50P200X200X90-9N-D
+Added Component: Designator=U?(FP-CP-40-27-IPC_C)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-16
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Pin To Net: NetName=GND Pin=U?-27
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Net: Name=Net*_1
+Add Net: Net with name "Net*_1" already exists
+Added Pin To Net: NetName=Net*_2 Pin=U?-5
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=NetIC?_3 Pin=U?-26
+Added Net: Name=NetIC?_3
+Added Net: Name=TX_MIX
+Added Pin To Net: NetName=VTUNE Pin=U?-29
+Added Net: Name=VTUNE
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Component_1
+Add Class Member: Failed to add class member : Component IC? ADL8143ACPZN
+Added Member To Class: ClassName=Radar_FMCW Member=Component U? HMC1163LP5E

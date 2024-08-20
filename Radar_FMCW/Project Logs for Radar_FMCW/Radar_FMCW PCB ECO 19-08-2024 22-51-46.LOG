@@ -1,0 +1,16 @@
+Added Component: Designator=U?(FP-HCP-32-1-IPC_B)
+Add component (AddParameter): Name = "Frequency"; Value = "10.41GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain"; Value = "11dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "230mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P1dB"; Value = "11dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=U?-21
+Added Net: Name=+5
+Added Pin To Net: NetName=GND_TX_RF Pin=U?-5
+Added Pin To Net: NetName=GND_TX_RF Pin=U?-11
+Added Net: Name=GND_TX_RF
+Added Member To Class: ClassName=Radar_FMCW Member=Component U? HMC1163LP5E

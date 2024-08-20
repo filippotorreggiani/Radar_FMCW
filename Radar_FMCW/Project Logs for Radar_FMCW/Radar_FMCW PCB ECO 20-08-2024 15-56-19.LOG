@@ -1,0 +1,58 @@
+Added Component: Designator=*(Antenna_10GHz)
+Added Component: Designator=IC?(SON50P200X200X90-9N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADL8143/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADL8143ACPZN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-HCP-32-1-IPC_B)
+Add component (AddParameter): Name = "Frequency"; Value = "10.41GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain"; Value = "11dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "230mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P1dB"; Value = "11dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-CP-40-27-IPC_C)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Add Pin To Net: Unknown Pin: Pin *-3
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=Net*_1 Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=GND Pin=IC?-9
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND_TX_RF Pin=U?-5
+Added Pin To Net: NetName=Net*_2 Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND_TX_RF Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-16
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=+5 Pin=U?-21
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Pin To Net: NetName=NetIC?_3 Pin=U?-26
+Added Pin To Net: NetName=GND Pin=U?-27
+Added Pin To Net: NetName=VTUNE Pin=U?-29
+Add Net: Net with name "Net*_1" already exists
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Component_1
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Power_Splitter
+Added Member To Class: ClassName=Radar_FMCW Member=Component IC? ADL8143ACPZN
+Added Member To Class: ClassName=Radar_FMCW Member=Component U? HMC1163LP5E
+Added Member To Class: ClassName=Radar_FMCW Member=Component U? ADMV8416ACPZ

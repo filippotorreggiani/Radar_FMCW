@@ -1,0 +1,42 @@
+$begin 'ConnectionParameters'
+	DesktopProcessID=29540
+	DesktopProcessPath='C:\\Program Files\\AnsysEM\\Ansys Student\\v242\\Win64\\ansysedtsv.exe'
+	LaunchedByWB=false
+	GRPCPort=0
+	$begin 'DesktopStubBlock'
+		$begin 'CommDetails'
+			TransportType=1
+			IPAddress='192.168.56.1'
+			ListenPort='53593'
+			IPAddressVector[1: '192.168.1.215']
+		$end 'CommDetails'
+		$begin 'Marshall'
+			InstanceID=503
+			ProcID=29540
+			InterfaceID=1
+			FactoryIntID='DesktopInterfaceForWBProxyStubFactory'
+		$end 'Marshall'
+	$end 'DesktopStubBlock'
+	$begin 'DesktopBackgroundObjStubBlock'
+		$begin 'CommDetails'
+			TransportType=1
+			IPAddress='192.168.56.1'
+			ListenPort='53593'
+			IPAddressVector[1: '192.168.1.215']
+		$end 'CommDetails'
+		$begin 'Marshall'
+			InstanceID=505
+			ProcID=29540
+			InterfaceID=2
+			FactoryIntID='DesktopInterfaceForWBProxyStubFactory'
+		$end 'Marshall'
+	$end 'DesktopBackgroundObjStubBlock'
+	$begin 'WebClientBlock'
+		Url='http://HPFilippoTorreggiani:22481/?server=ws://HPFilippoTorreggiani:21969&token=7a6eca8f-6a6a-ae03-54e4-9686bbe2c78b&startTab=monitor/graph'
+		SecureUrl='https://HPFilippoTorreggiani:22737/?server=wss://HPFilippoTorreggiani:22225&token=7a6eca8f-6a6a-ae03-54e4-9686bbe2c78b&startTab=monitor/graph'
+		WsHost='HPFilippoTorreggiani'
+		WsPort=21969
+		WssPort=22225
+		Token='7a6eca8f-6a6a-ae03-54e4-9686bbe2c78b'
+	$end 'WebClientBlock'
+$end 'ConnectionParameters'
