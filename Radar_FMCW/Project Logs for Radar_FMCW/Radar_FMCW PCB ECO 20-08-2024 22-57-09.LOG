@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Removed Pin From Net: NetName=Net*_1 Pin=U2-19
+Change Designator: Invalid Designator
+Added Component: Designator=IC?(QFN51P300X300X89-13N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.minicircuits.com/WebStore/dashboardPdf?model=XLF-732%2B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mini-Circuits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XLF-732+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "139-XLF-732"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/XLF-732%2b?qs=xZ%2FP%252Ba9zWqZ1H%2Fab09yzWw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Add Pin To Net: Unknown Pin: Pin *-3
+Add Pin To Net: Unknown Pin: Pin *-3
+Added Pin To Net: NetName=Net_1 Pin=*-1
+Added Pin To Net: NetName=Net_1 Pin=*-1
+Added Pin To Net: NetName=Net_1 Pin=*-1
+Added Pin To Net: NetName=Net_1 Pin=*-1
+Added Pin To Net: NetName=Net_1 Pin=*-1
+Added Pin To Net: NetName=Net_1 Pin=*-1
+Added Pin To Net: NetName=Net_1 Pin=*-1
+Added Pin To Net: NetName=Net_1 Pin=*-1
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=Net*_3 Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=GND Pin=IC?-9
+Added Pin To Net: NetName=Net*_1 Pin=U3-26
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_2" already exists
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Mixer_RF
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Power_Splitter
+Added Member To Class: ClassName=Radar_FMCW Member=Component IC1 ADL8143ACPZN
+Added Member To Class: ClassName=Radar_FMCW Member=Component IC? XLF-732+

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator=IC? NewDesignator=IC4
+Added Component: Designator=*(Power_Splitter)
+Added Component: Designator=*(Power_Splitter)
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-3
+Add Pin To Net: Unknown Pin: Pin *-3
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_2" already exists
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Power_Splitter
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Mixer_RF

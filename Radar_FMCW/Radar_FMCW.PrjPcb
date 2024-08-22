@@ -58,7 +58,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -119,143 +119,32 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUWTANOO
 
-[Document5]
-DocumentPath=..\..\..\..\..\CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=..\..\..\..\..\CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=CAMtastic3.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Radar_FMCW\odb\symbols\shape8ab5b1ee\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Radar_FMCW\odb\symbols\shape36bb128f\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Radar_FMCW\odb\symbols\shapea2ea2442\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Radar_FMCW\odb\symbols\shaped13c99c4\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Radar_FMCW\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.cvg
-DItemRevisionGUID=
-
-[GeneratedDocument15]
 DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.GM
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Radar_FMCW\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [Configuration1]

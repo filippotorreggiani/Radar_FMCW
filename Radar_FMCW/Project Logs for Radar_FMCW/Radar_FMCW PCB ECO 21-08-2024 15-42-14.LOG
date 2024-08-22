@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=* Old Footprint=Power_Splitter New Footprint=Mixer_RF
+Change Designator: Invalid Designator
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Add Pin To Net: Unknown Pin: Pin *-3
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_2" already exists
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Mixer_RF
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Power_Splitter
+Add Class Member: Failed to add class member : Component  TX

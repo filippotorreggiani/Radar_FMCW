@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Removed Pin From Net: NetName=GND Pin=IC?-2
+Removed Pin From Net: NetName=GND Pin=IC?-4
+Removed Pin From Net: NetName=GND Pin=IC?-5
+Removed Pin From Net: NetName=GND Pin=IC?-7
+Removed Pin From Net: NetName=GND Pin=IC?-9
+Removed Pin From Net: NetName=GND Pin=U?-4
+Removed Pin From Net: NetName=GND Pin=U?-6
+Removed Pin From Net: NetName=GND Pin=U?-12
+Removed Pin From Net: NetName=GND Pin=U?-16
+Removed Pin From Net: NetName=GND Pin=U?-18
+Removed Pin From Net: NetName=GND Pin=U?-25
+Removed Pin From Net: NetName=GND Pin=U?-27
+Change Component Comment : Designator=* Old Comment=Component_1 New Comment=TX
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator=*? NewDesignator=RX
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Component: Designator=IC2(SON50P200X200X90-9N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADL8143/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADL8143ACPZN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found QFN51P300X300X89-13N
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Add Pin To Net: Unknown Pin: Pin *-3
+Added Pin To Net: NetName=TX_MIX Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-11
+Change Net Name : Old Net Name=GND New Net Name=GND_TX_RF
+Change Net Name : Old Net Name=Net*?_1 New Net Name=NetIC3_3
+Change Net Name : Old Net Name=Net*_1 New Net Name=Net_1
+Change Net Name : Old Net Name=NetIC?_3 New Net Name=NetIC1_3
+Change Net Name : Old Net Name=NetIC?_6 New Net Name=NetIC3_6
+Change Net Name : Old Net Name=VTUNE New Net Name=VTUNE_VCO
+Added Pin To Net: NetName=GND_RX_RF Pin=IC2-2
+Added Pin To Net: NetName=GND_RX_RF Pin=IC2-4
+Added Pin To Net: NetName=GND_RX_RF Pin=IC2-5
+Added Pin To Net: NetName=GND_RX_RF Pin=IC2-7
+Added Pin To Net: NetName=GND_RX_RF Pin=IC2-9
+Added Pin To Net: NetName=GND_RX_RF Pin=IC3-2
+Added Pin To Net: NetName=GND_RX_RF Pin=IC3-4
+Added Pin To Net: NetName=GND_RX_RF Pin=IC3-5
+Added Pin To Net: NetName=GND_RX_RF Pin=IC3-7
+Added Pin To Net: NetName=GND_RX_RF Pin=IC3-9
+Added Pin To Net: NetName=GND_RX_RF Pin=U3-4
+Added Pin To Net: NetName=GND_RX_RF Pin=U3-6
+Added Pin To Net: NetName=GND_RX_RF Pin=U3-12
+Added Pin To Net: NetName=GND_RX_RF Pin=U3-16
+Added Pin To Net: NetName=GND_RX_RF Pin=U3-18
+Added Pin To Net: NetName=GND_RX_RF Pin=U3-25
+Added Pin To Net: NetName=GND_RX_RF Pin=U3-27
+Added Net: Name=GND_RX_RF
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=U2-19
+Added Net: Name=Net*_1
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_2" already exists
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=VTUNE_FILTER_RX Pin=U3-19
+Added Net: Name=VTUNE_FILTER_RX
+Added Pin To Net: NetName=VTUNE_FILTER_TX Pin=U1-19
+Added Net: Name=VTUNE_FILTER_TX
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Mixer_RF
+Added Member To Class: ClassName=Radar_FMCW Member=Component * Power_Splitter
+Added Member To Class: ClassName=Radar_FMCW Member=Component IC2 ADL8143ACPZN
+Added Member To Class: ClassName=Radar_FMCW Member=Component IC3 ADL8143ACPZN
+Add Class Member: Failed to add class member : Component IC? XLF-732+
+Added Member To Class: ClassName=Radar_FMCW Member=Component U2 HMC1163LP5E
+Added Member To Class: ClassName=Radar_FMCW Member=Component U3 ADMV8416ACPZ
