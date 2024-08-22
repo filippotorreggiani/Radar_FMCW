@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Radar_FMCW Member=IC6
+Added Pin To Net: NetName=TX_MIX Pin=U1-5
+Added Pin To Net: NetName=TX_MIX Pin=U2-19

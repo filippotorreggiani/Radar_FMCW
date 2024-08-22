@@ -1,0 +1,20 @@
+Added Component: Designator=RX(Antenna_10GHz)
+Added Component: Designator=TX(Antenna_10GHz)
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Member To Class: ClassName=Radar_FMCW Member=Component RX Component_1
+Added Member To Class: ClassName=Radar_FMCW Member=Component TX
