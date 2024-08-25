@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VTUNE_VCO Pin=J2-1
+Added Pin To Net: NetName=VTUNE_FILTER_TX Pin=J2-2
+Added Pin To Net: NetName=VCTL_TX Pin=J2-3
+Added Pin To Net: NetName=+5 Pin=J2-4
+Added Pin To Net: NetName=+1.5 Pin=J2-5
+Added Pin To Net: NetName=GND_TX_RF Pin=J2-6
+Added Pin To Net: NetName=GND_TX_RF Pin=J2-13
+Added Pin To Net: NetName=GND_TX_RF Pin=J2-14
+Added Pin To Net: NetName=EP Pin=U2-33
+Added Net: Name=EP
