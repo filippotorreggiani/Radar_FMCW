@@ -119,6 +119,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUWTANOO
 
+[Document5]
+DocumentPath=Radar_FMCW_1.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XVDUXEEE
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Radar_FMCW\Radar_FMCW.EXTREP
 DItemRevisionGUID=

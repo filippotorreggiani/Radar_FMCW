@@ -1,0 +1,99 @@
+Added Component: Designator=RX(Antenna_10GHz)
+Added Component: Designator=SW1(FP-A6S-5102-H-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Slide (Standard)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "200mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "1000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.537inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "1000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "A6S-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(FP-A6S-5102-H-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Slide (Standard)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "200mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "1000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.537inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "1000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "A6S-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=TX(Antenna_10GHz)
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=NetIC3_3 Pin=RX-1
+Added Pin To Net: NetName=VTUNE_VCO Pin=SW1-1
+Added Pin To Net: NetName=VTUNE_FILTER_TX Pin=SW1-2
+Added Pin To Net: NetName=VCTL_TX Pin=SW1-3
+Added Pin To Net: NetName=VTUNE_FILTER_RX Pin=SW2-1
+Added Pin To Net: NetName=VCTL_RX Pin=SW2-2
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=NetIC1_6 Pin=TX-1
+Added Pin To Net: NetName=VCTL_RX_A Pin=SW2-9
+Added Net: Name=VCTL_RX_A
+Added Pin To Net: NetName=VCTL_TX_A Pin=SW1-8
+Added Net: Name=VCTL_TX_A
+Added Pin To Net: NetName=VTUNE_FILTER_RX_A Pin=SW2-10
+Added Net: Name=VTUNE_FILTER_RX_A
+Added Pin To Net: NetName=VTUNE_FILTER_TX_A Pin=SW1-9
+Added Net: Name=VTUNE_FILTER_TX_A
+Added Pin To Net: NetName=VTUNE_VCO_A Pin=SW1-10
+Added Net: Name=VTUNE_VCO_A
+Added Member To Class: ClassName=Radar_FMCW Member=Component RX Component_1
+Added Member To Class: ClassName=Radar_FMCW Member=Component SW1 A6S-5102-H
+Added Member To Class: ClassName=Radar_FMCW Member=Component SW2 A6S-5102-H
+Added Member To Class: ClassName=Radar_FMCW Member=Component TX

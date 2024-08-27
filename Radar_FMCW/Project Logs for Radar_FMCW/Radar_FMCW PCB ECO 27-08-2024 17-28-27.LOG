@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=J3 Old Footprint=FP-43650-0910-MFG New Footprint=FP-43650-0910-MFG
+Added Pin To Net: NetName=GND_TX_RF Pin=J3-9

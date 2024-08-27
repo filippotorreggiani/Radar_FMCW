@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND_RX_RF Pin=J1-5
+Added Pin To Net: NetName=IF_OUT Pin=IC4-8
+Added Pin To Net: NetName=IF_OUT Pin=J1-6
+Added Net: Name=IF_OUT
